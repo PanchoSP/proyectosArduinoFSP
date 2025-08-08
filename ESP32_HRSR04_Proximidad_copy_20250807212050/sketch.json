@@ -1,0 +1,9 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:esp32da",
+    "name": "ESP32-WROOM-DA Module",
+    "type": "serial"
+  },
+  "secrets": [],
+  "included_libs": []
+}
